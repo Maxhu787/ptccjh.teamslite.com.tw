@@ -1,4 +1,4 @@
-# Script
+# 16倍速快轉
 
 A script for <a href="https://ptccjh.teamslite.com.tw/student/cinemaVideo.html">ptccjh.teamslite.com.tw</a><br />
 ## How it works 
