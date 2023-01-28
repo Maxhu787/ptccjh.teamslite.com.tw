@@ -23,5 +23,5 @@ btn.onclick = () => {
 a.appendChild(btn)
 ```
 5. You will now see a button with the value ```16.0X```
-<br/><img src="./example.png" /><br/>
+<br/><img src="./example.PNG" /><br/>
 6. Click on it and the playback rate should change
